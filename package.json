@@ -11,12 +11,12 @@
     "type": "git",
     "url": "git+ssh://git@github.com/LoliKillers/Arnz-Api.git"
   },
-  "author": "LolKill & Zee",
+  "author": "Denis",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zeeneofc/"
+    "url": "https://github.com/aiden2209/"
   },
-  "homepage": "https://github.com/zeeoneofc",
+  "homepage": "https://github.com/aiden2209/",
   "dependencies": {
     "@lolikillers/aexm-api": "github:Aexm47/AEXM47",
     "axios": "^0.21.1",
